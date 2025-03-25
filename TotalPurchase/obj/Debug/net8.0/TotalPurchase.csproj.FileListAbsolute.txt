@@ -12,3 +12,4 @@
 /Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.pdb
 /Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.genruntimeconfig.cache
 /Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/ref/TotalPurchase.dll
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.sourcelink.json
