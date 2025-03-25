@@ -1,0 +1,15 @@
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/IsPalindrome.AssemblyInfoInputs.cache
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/IsPalindrome.AssemblyInfo.cs
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/IsPalindrome.csproj.CoreCompileInputs.cache
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/IsPalindrome.sourcelink.json
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/bin/Debug/net8.0/IsPalindrome
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/bin/Debug/net8.0/IsPalindrome.deps.json
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/bin/Debug/net8.0/IsPalindrome.runtimeconfig.json
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/bin/Debug/net8.0/IsPalindrome.dll
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/bin/Debug/net8.0/IsPalindrome.pdb
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/IsPalindrome.dll
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/refint/IsPalindrome.dll
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/IsPalindrome.pdb
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/IsPalindrome.genruntimeconfig.cache
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/IsPalindrome/obj/Debug/net8.0/ref/IsPalindrome.dll
