@@ -1,0 +1,14 @@
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/bin/Debug/net8.0/TotalPurchase
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/bin/Debug/net8.0/TotalPurchase.deps.json
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/bin/Debug/net8.0/TotalPurchase.runtimeconfig.json
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/bin/Debug/net8.0/TotalPurchase.dll
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/bin/Debug/net8.0/TotalPurchase.pdb
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.AssemblyInfoInputs.cache
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.AssemblyInfo.cs
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.csproj.CoreCompileInputs.cache
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.dll
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/refint/TotalPurchase.dll
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.pdb
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/TotalPurchase.genruntimeconfig.cache
+/Users/zarifaibrahimzada/Desktop/MicrosoftTraining/TotalPurchase/obj/Debug/net8.0/ref/TotalPurchase.dll
